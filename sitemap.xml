@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://oohcode.com/2018/06/01/golang-http-client-connection-pool/</loc>
+    
+    <lastmod>2018-06-03T03:38:55.626Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/tags/index.html</loc>
+    
+    <lastmod>2018-06-01T13:55:01.125Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/categories/index.html</loc>
+    
+    <lastmod>2018-06-01T13:55:01.123Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/about/index.html</loc>
+    
+    <lastmod>2018-06-01T13:55:00.959Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/07/12/golang-goroutines-1/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/08/03/the-core-technology-of-high-traffic-website/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/03/11/The-Design-and-Implementation-of-Redis-4/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/07/01/how-golang-webserver-work/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/03/06/The-Design-and-Implementation-of-Redis-3/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.956Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/03/05/The-Design-and-Implementation-of-Redis-2/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.956Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/03/04/The-Design-and-Implementation-of-Redis-1/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/02/03/gc-advanced/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/01/23/gc-base/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2017/01/22/gc/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.953Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2016/08/23/phpenv-configuration-options/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2015/10/14/InnoDB-Key-Features/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2015/10/09/apache-and-nginx/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.951Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2015/09/15/PHP-array-hash-key-overflow/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.951Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2015/08/14/mean-primer/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.951Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2015/05/28/http-cache/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2015/05/12/jekyll-to-hexo/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/11/27/observer-pattern/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2015/01/27/php-internals-1/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/11/21/factory-pattern/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/11/19/uml-class-diagram/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/11/07/gdb-manual/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/05/26/csapp-chapter8/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/07/05/coreseek-manual/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/05/21/csapp-chapter7/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/05/18/csapp-chapter6/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/05/13/coreseek-install-doc/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.946Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/05/10/stdarg-function/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.945Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/03/22/linux-shell-programe1/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.945Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/03/22/linux-shell-command-line-control-key/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.944Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/02/13/csapp-chapter5/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.944Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/02/11/csapp-chapter4/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.943Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/02/06/apue-chapter2/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.943Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/01/15/mysql-merge-engine/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.942Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/30/think-in-uml/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.941Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2014/01/10/add-dot-language/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.941Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/29/plantuml-chinese-garbled/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/29/my-tools/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/30/jekyll-and-plugin-plantuml/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/26/mysql-optimiz-summary/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/20/csapp-chapter3/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.939Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/24/markdown-to-pdf/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.939Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/06/restful-web-services-chapter7/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.938Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/05/restful-web-services-chapter6/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.938Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/05/restful-web-services-chapter5/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.938Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/27/restful-web-services-chapter2/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/12/04/restful-web-services-chapter4/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/29/restful-web-services-chapter3/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/26/restful-web-services-chapter1/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.936Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/25/synchronous-asynchronous-blocking-non-blocking/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.936Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/26/restful-web-services-chapter0/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.936Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/21/soap-and-rest/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.935Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/25/select-poll-epoll/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.935Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/21/csapp-chapter2/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.935Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/20/csapp-chapter1/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.934Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/19/apue-chapter1/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.934Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/20/csapp-chapter0/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.934Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/19/apue-chapter0/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/14/pip-and-easy_install/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/13/django-nginx-fastcgi/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/04/setuptools-setuppy-config/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/11/04/python-packing-command-line-script/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.931Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/10/15/python-packaging/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.930Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/10/13/study-liquid/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.929Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/10/14/python-pypi-install/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.929Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oohcode.com/2013/10/12/install-theme/</loc>
+    
+    <lastmod>2018-06-01T13:55:00.928Z</lastmod>
+    
+  </url>
+  
+</urlset>
